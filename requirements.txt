@@ -1,0 +1,12 @@
+tensorflow==2.15.0
+tensorflow-addons==0.22.0
+torch==2.5.0
+torchvision==0.20.0
+torchaudio==2.5.0
+numpy==1.26.4
+matplotlib==3.8.2
+h5py==3.10.0
+cvxpy==1.4.1
+scikit-learn==1.4.1
+scipy==1.12.0
+pandas==2.2.1
