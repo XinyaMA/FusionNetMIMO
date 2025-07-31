@@ -1,5 +1,5 @@
 # FusionNetMIMO
-A demo for ML solution for signal detection.....
+A demo of a convolutional neural network solution for signal detection.....
 
 - 16-QAM Dataset Generation: Automatically generate synthetic datasets using Rayleigh fading channels and AWGN noise.
 
