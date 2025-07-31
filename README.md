@@ -41,7 +41,7 @@ Environment: Anaconda (Spyder / Colab), CUDA 12.6 + cuDNN 8.9
 
 ├── MNIST测试.py                    # Model testing using MNIST dataset for structure validation
 
-├── comp_FusionNet_ML              # Comparison between FusionNet detection and ML detection methods
+├── comp_FusionNet_ML.py              # Comparison between FusionNet detection and ML detection methods
 
 └── dataset_16qam.h5               # Generated dataset (created at runtime)
 
