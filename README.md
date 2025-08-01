@@ -38,13 +38,9 @@ Environment: Anaconda (Spyder / Colab), CUDA 12.6 + cuDNN 8.9
 
 ```bash
 ├── comp_CNN_FCN_FusionNet.py      
-
 ├── comparison.m                
-
 ├── MNIST测试.py                    
-
 ├── comp_FusionNet_ML.py    
-
 └── dataset_16qam.h5     
 ```
 - ** comp_CNN_FCN_FusionNet.py **: Main pipeline, dataset generation, FCN, CNN, FusionNet, BER comparison
