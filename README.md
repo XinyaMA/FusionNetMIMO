@@ -35,21 +35,23 @@ Visualization: Matplotlib
 Environment: Anaconda (Spyder / Colab), CUDA 12.6 + cuDNN 8.9
 
 # Files structure
-├── comp_CNN_FCN_FusionNet.py      # Main pipeline: dataset generation, FCN, CNN, FusionNet, BER comparison
 
-├── comparison.m                   # Classical detection algorithms (ML, ZF, MMSE, SIC, SDR) by MATLAB
+```bash
+├── comp_CNN_FCN_FusionNet.py      
 
-├── MNIST测试.py                    # Model testing using MNIST dataset for structure validation
+├── comparison.m                
 
-├── comp_FusionNet_ML.py              # Comparison between FusionNet detection and ML detection methods
+├── MNIST测试.py                    
 
-└── dataset_16qam.h5               # Generated dataset (created at runtime)
+├── comp_FusionNet_ML.py    
 
-
-
-
-
-
+└── dataset_16qam.h5     
+```
+- ** comp_CNN_FCN_FusionNet.py **: Main pipeline, dataset generation, FCN, CNN, FusionNet, BER comparison
+- ** comparison.m **: Classical detection algorithms (ML, ZF, MMSE, SIC, SDR) by MATLAB
+- ** MNIST测试.py **: Model testing using MNIST dataset for structure validation
+- ** comp_FusionNet_ML.py **: Comparison between FusionNet detection and ML detection methods
+- ** dataset_16qam.h5 **: Generated dataset (created at runtime)
 
 
 
